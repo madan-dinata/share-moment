@@ -7,7 +7,7 @@ all users can share moments, moments from each user appear on the dashboard of o
 + [ ] Authentication and Authorization
 + [ ] Email verification
 + [ ] Change and Forget Password
-+ [ ] Get all data
++ [ ] Get moments
 + [ ] Post moment
 + [ ] Update moment
 + [ ] Delete moment
